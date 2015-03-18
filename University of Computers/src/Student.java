@@ -20,6 +20,21 @@ public class Student {
 	public Student(){
 	}
 	//Methods:
+
+	public void readInput() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void calculateData() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void writeOutput() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	//readInput
 	//calculateData

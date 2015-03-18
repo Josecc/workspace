@@ -17,7 +17,7 @@ public class StudentDemo
 		{
 			person.readInput();
 			person.calculateData(); // This method must call private methods to do the
-// calculations.
+									// calculations.
 			person.writeOutput();
 			clerk.colectDataForReport(person);
 		}

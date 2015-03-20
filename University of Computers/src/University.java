@@ -1,6 +1,6 @@
 /**
  * 
- * @author fonderjose
+ * @author Jose Canahui
  *
  */
 public class University {

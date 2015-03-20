@@ -1,27 +1,37 @@
+/**
+ * 
+ * Modified by: Jose Canahui
+ * for: returning a string.
+ *
+ */
 public class OutPut // class that can be used to print one line of formatted
 // output
 {
-	public static void printStringLeft(int size, String formatted)
+	public static String printStringLeft(int size, String formatted)
 // Blank fills and left justifies a string in a field of size characters
 	{
+		String output = "";
 		int length = formatted.length();
-		System.out.print(formatted);
+		output = formatted;
 		while(size > length)
 		{
-			System.out.print(" ");
+			output = output + " ";
 			size--;
 		} // End while (size > length)
+		return output;
 	} // End function printString
 
-	public static void printStringRight(int size, String formatted)
+	public static String printStringRight(int size, String formatted)
 // Blank fills and right justifies a string in a field of size characters
 	{
+		String output = "";
 		int length = formatted.length();
 		while(size > length)
 		{
-			System.out.print(" ");
+			output = output + " ";
 			size--;
 		} // End while (size > length)
-		System.out.print(formatted);
+		output = output + formatted;
+		return output;
 	} // End function printString
 }

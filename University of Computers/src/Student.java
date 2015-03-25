@@ -232,11 +232,11 @@ public class Student {
 	 */
 	private int intCheck(){
 		boolean valid = false;
-		int credits = 0;
+		int number = 0;
 		
 		do{
 			try{
-				credits = keyboard.nextInt();
+				number = keyboard.nextInt();
 				valid = true;
 			}
 			catch(Exception e){
@@ -245,7 +245,7 @@ public class Student {
 			}
 		}while(!valid);
 		
-		return credits;
+		return number;
 	}
 	
 	/**

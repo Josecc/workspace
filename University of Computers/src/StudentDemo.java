@@ -6,13 +6,15 @@ import java.util.Scanner;
 public class StudentDemo
 {
 	private static Scanner scan = new Scanner(System.in);
-
+	
 	public static void main(String[] args)
 	{
+		//Menu-algorithm flow:
 		//File Name?:
 		//Menu?:
 			//Enter info to file
 			//Calculate data for university from file
+			//Change name of working file
 			//Exit
 		String fileName = OutPut.validateFileName();
 		Boolean finished = false;

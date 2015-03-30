@@ -209,17 +209,22 @@ public class Student {
 		System.out.println(OutPut.printStringLeft(65, "")+"TOTAL      "+dollarFormat.format(total));
 	}
 	
-	/*
+	/**
 	 * File will be read like so:
-	 * 	name = readVars.next();
-		address = readVars.next();
-		phone = readVars.next();
-		creditsEnrolled = readVars.nextInt();
-		instateRate = readVars.nextBoolean();
-		lateFeeAssessed = readVars.nextBoolean();
-		campusFood = readVars.nextBoolean();
-		healthCare = readVars.nextBoolean();
-		mealPlan = readVars.nextDouble();
+	 * <ul><i>
+	    <li>name = readVars.next();</li>
+		<li>address = readVars.next();</li>
+		<li>phone = readVars.next();</li>
+		<li>creditsEnrolled = readVars.nextInt();</li>
+		<li>instateRate = readVars.nextBoolean();</li>
+		<li>lateFeeAssessed = readVars.nextBoolean();</li>
+		<li>campusFood = readVars.nextBoolean();</li>
+		<li>healthCare = readVars.nextBoolean();</li>
+		<li>mealPlan = readVars.nextDouble();</li>
+	 * </i></ul>
+	 * <b>Purpose:</b> To save the student into a file, and append the student.<br>
+	 * <b>Precondition:</b> A valid file name should be passed.<br>
+	 * <b>Postcondition:</b> The student will be saved onto the file in a format that the constructor can read.<br>
 	 */
 	public Boolean save(String fileName){
 		Boolean success = false;//Save file

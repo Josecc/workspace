@@ -8,6 +8,7 @@ import java.util.Scanner;
  * 
  * Modified by: Jose Canahui
  * for: returning a string.
+ * && added capabilities for user-friendly FileIO, creating menus and getting responses, querying for strings & ints..
  *
  */
 public class OutPut // class that can be used to print one line of formatted
@@ -149,6 +150,12 @@ public class OutPut // class that can be used to print one line of formatted
 		//Does not work because .hasNext blocks while it searches for input....
 	}
 	
+	/**
+	 * <b>Purpose:</b> Checks whether the file exists. If not, it will create a new file.<br>
+	 * <b>Precondition:</b> File name is passed. <br>
+	 * <b>Postcondition:</b> A dependable file name is returned. Makes sure the file to be worked with exists.
+	 * @return
+	 */
 	public static String validateFileName(){
 		Boolean validFile = false;
 		String fileName = null;
@@ -179,6 +186,14 @@ public class OutPut // class that can be used to print one line of formatted
 		return fileName;
 	}
 	
+	/**
+	 * <b>Purpose:</b> Abstracts the creation of file. Uses the <i>validateFileName()</i> method to make sure<br>
+	 * 				file exists. Returns a file that was created in a user-friendly way.<br>
+	 * <b>Precondition:</b> A file name is passed, and is validated through the <i>validateFileName()</i> method.<br>
+	 * <b>Postcondition:</b> A file created in a user-friendly manner is created. Its re-usable code.
+	 * @param fileName
+	 * @return <b>Scanner file</b>
+	 */
 	public static Scanner getFile(String fileName){
 		Boolean validFile = false;
 		Scanner file = null;

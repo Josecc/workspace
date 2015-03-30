@@ -8,6 +8,33 @@ public class StudentDemo
 
 	public static void main(String[] args)
 	{
+		//File Name?:
+		//Menu?:
+			//Enter info to file
+			//Calculate data for university from file
+			//Exit
+		String fileName = OutPut.queryString("Name the file you wish to work with:", false);
+		Boolean finished = false;
+		do{
+		int response = OutPut.menu(new String[]{"Save student to file",
+												"Calculate data from file",
+												"Change working file",
+												"Exit"});
+		switch(response){
+			case 1://Save Student
+				break;
+			case 2://Calculate university data from file
+				break;
+			case 3://Change fileName
+				break;
+			case 4:
+			default:
+				System.out.println("Thank you, come again!");
+				finished = true;
+				break;
+		}
+		}while(!finished);
+		
 		University clerk = new University();
 		Student person = new Student();// one student
 		int numberOfStudents, i, count;

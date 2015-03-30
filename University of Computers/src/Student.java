@@ -33,6 +33,23 @@ public class Student {
 	public Student(){
 	}
 	
+	public Student(String inputVars){//Needs a string of comma-deliniated variables
+		Scanner readVars = new Scanner(inputVars);
+		readVars.useDelimiter(", | \n");
+		
+		name = readVars.next();
+		address = readVars.next();
+		phone = readVars.next();
+		creditsEnrolled = readVars.nextInt();
+		instateRate = readVars.nextBoolean();
+		lateFeeAssessed = readVars.nextBoolean();
+		campusFood = readVars.nextBoolean();
+		healthCare = readVars.nextBoolean();
+		mealPlan = readVars.nextDouble();
+		
+		calculateData();
+	}
+	
 	//**************accessor****************
 	public boolean getInstate(){
 		return instateRate;
@@ -80,12 +97,12 @@ public class Student {
 		System.out.println("Phone number");
 		phone = keyboard.nextLine();
 		System.out.println("Credits Enrolled");
-		creditsEnrolled = intCheck(30);//Makes sure it is positive, an int, and gets rid of data that doesnt make sense ex. 5,000 credits
+		creditsEnrolled = OutPut.intCheck(30);//Makes sure it is positive, an int, and gets rid of data that doesnt make sense ex. 5,000 credits
 		//System.err.println(creditsEnrolled);
 		
 		//Instate rate
 		System.out.println("Qualifies for instate rate");
-		int inState = menu(new String[]{"yes", "no"});
+		int inState = OutPut.menu(new String[]{"yes", "no"});
 		if(inState==1)
 			instateRate = true;
 		else
@@ -93,7 +110,7 @@ public class Student {
 		
 		//Late fee
 		System.out.println("Late fee assessed");
-		int late = menu(new String[]{"yes", "no"});
+		int late = OutPut.menu(new String[]{"yes", "no"});
 		if(late == 1)
 			lateFeeAssessed = true;
 		else 
@@ -101,7 +118,7 @@ public class Student {
 		
 		//Campus food
 		System.out.println("On campus food");
-		int food = menu(new String[]{"yes", "no"});
+		int food = OutPut.menu(new String[]{"yes", "no"});
 		if(food == 1)
 			campusFood = true;
 		else
@@ -109,7 +126,7 @@ public class Student {
 		
 		//Health care option
 		System.out.println("Health care option");
-		int health = menu(new String[]{"yes", "no"});
+		int health = OutPut.menu(new String[]{"yes", "no"});
 		if(health == 1)
 			healthCare = true;
 		else
@@ -121,7 +138,7 @@ public class Student {
 								  OutPut.printStringLeft(25, "I-can't-stand-this-food") + "$3,499.00",
 								  OutPut.printStringLeft(25, "I'm-on-a-diet") + "$2,599.00"};
 			System.out.println("Please select meal plan");
-			int meal = menu(mealPlans);
+			int meal = OutPut.menu(mealPlans);
 			if(meal == 1)
 				mealPlan = 4999;
 			else if(meal == 2)
@@ -199,79 +216,5 @@ public class Student {
 			tuition = tuition + inRate * credits;
 		else
 			tuition = tuition + outRate * credits;
-	}
-	
-	/**
-	 * <b>Purpose:</b> Allows for a reusable way of inquiring several options.<br><br>
-	 * <b>Precondition:</b> An array of options must be supplied. The method will take<br>
-	 * 						care of numbering, and collecting the response.<br><br>
-	 * <b>Postcondition:</b> The selected answer will be returned as an integer.<br><br>
-	 * <b>Note:</b> For ease-of-use, initialize required sting array in method call, <br>
-	 * 				like so: <b>int response = menu(new String[]{"option one", "option two", "etc.."});</b><br>
-	 * @param options
-	 * @return
-	 */
-	private int menu(String[] options){
-		int selection;
-		String space = "     ";
-		
-		int index = 1;
-		for(String option: options){
-			System.out.println(space + index + ": " + option);
-			index++;
-		}
-		
-		selection = intCheck(options.length);
-		return selection;
-	}
-	
-	/**
-	 * <b>Purpose:</b> Checks to make sure the input is an integer.<br><br>
-	 * <b>Precondition:</b> There must be a scanner available in class state variables.<br>
-	 * @return valid input
-	 */
-	private int intCheck(){
-		boolean valid = false;
-		int number = 0;
-		
-		do{
-			try{
-				number = keyboard.nextInt();
-				valid = true;
-			}
-			catch(Exception e){
-				System.err.println("Please input an integer.");
-				keyboard.next();
-			}
-		}while(!valid);
-		
-		return number;
-	}
-	
-	/**
-	 * <b>Purpose:</b> Checks to make sure the input is and integer and falls<br>
-	 * in the range of 1 to <i>lenght</i>.<br><br>
-	 * <b>Precondition:</b> A length must be given, depends on intCheck() method.<br>
-	 * @param length
-	 * @return valid input
-	 */
-	private int intCheck (int length){
-		int toCheck = 0;
-		boolean valid = false;
-		
-		do{
-			try{
-				toCheck = intCheck();
-				if (toCheck > length || toCheck < 1)
-					throw new Exception();
-				else
-					valid = true;
-			}
-			catch(Exception e){
-				System.err.println("Please enter a number that ranges 1 - " + length);
-			}
-		}while(!valid);
-		
-		return toCheck;
 	}
 }

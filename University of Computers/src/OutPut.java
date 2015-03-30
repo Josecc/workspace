@@ -1,3 +1,7 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
@@ -53,7 +57,6 @@ public class OutPut // class that can be used to print one line of formatted
 			response = keyboard.nextLine();
 		else
 			response = keyboard.next();
-		
 		cleanBuffer();
 		return response;
 	}
@@ -140,8 +143,10 @@ public class OutPut // class that can be used to print one line of formatted
 	 * 
 	 */
 	public static void cleanBuffer(){
-		if(keyboard.hasNext())
-			keyboard.nextLine();
+//		if(keyboard.hasNext("\n"))
+//			keyboard.next();
+//		System.out.println("clean?");
+		//Does not work because .hasNext blocks while it searches for input....
 	}
 	
 	public static String validateFileName(){
@@ -150,9 +155,43 @@ public class OutPut // class that can be used to print one line of formatted
 		
 		do{
 			fileName = OutPut.queryString("Name the file you wish to work with:", false);
-			//make sure file exists
+			try {
+				Scanner file = new Scanner(new File(fileName + ".txt"));
+				validFile = true;
+			} catch (FileNotFoundException e) {
+				System.out.println("File " + fileName + ".txt" + " not found!!!\n");
+				System.out.println("Create new file named \"" + fileName + ".txt\"?");
+				int response = menu(new String[] {"Yes", "No"});
+				if(response == 1){
+					PrintWriter fileOutputStream = null;
+					try {
+						fileOutputStream = new PrintWriter(new FileOutputStream(fileName + ".txt"));
+						validFile = true;
+					} catch (FileNotFoundException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					}
+				}
+			}
+			System.out.println("You are now using \"" + fileName + ".txt\"\n");
 		}while(!validFile);
 		
 		return fileName;
+	}
+	
+	public static Scanner getFile(String fileName){
+		Boolean validFile = false;
+		Scanner file = null;
+		
+		do{
+			try {
+				file = new Scanner(new File(fileName + ".txt"));
+				validFile = true;
+			} catch (FileNotFoundException e) {
+				System.out.println("File " + fileName + ".txt" + " not found!!!\n");
+			}
+		}while(!validFile);
+		
+		return file;
 	}
 }

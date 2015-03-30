@@ -1,3 +1,9 @@
+import java.io.BufferedWriter;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
@@ -28,6 +34,7 @@ public class Student {
 	private double mealPlan;
 	private double total;
 	private Scanner keyboard = new Scanner(System.in);
+	PrintWriter fileOutputStream = null;
 	
 	//********default constructor***********
 	public Student(){
@@ -35,7 +42,7 @@ public class Student {
 	
 	public Student(String inputVars){//Needs a string of comma-deliniated variables
 		Scanner readVars = new Scanner(inputVars);
-		readVars.useDelimiter(", | \n");
+		readVars.useDelimiter(",|\n");
 		
 		name = readVars.next();
 		address = readVars.next();
@@ -202,8 +209,42 @@ public class Student {
 		System.out.println(OutPut.printStringLeft(65, "")+"TOTAL      "+dollarFormat.format(total));
 	}
 	
+	/*
+	 * File will be read like so:
+	 * 	name = readVars.next();
+		address = readVars.next();
+		phone = readVars.next();
+		creditsEnrolled = readVars.nextInt();
+		instateRate = readVars.nextBoolean();
+		lateFeeAssessed = readVars.nextBoolean();
+		campusFood = readVars.nextBoolean();
+		healthCare = readVars.nextBoolean();
+		mealPlan = readVars.nextDouble();
+	 */
 	public Boolean save(String fileName){
-		Boolean success = true;//Save file
+		Boolean success = false;//Save file
+		try{
+			fileOutputStream = new PrintWriter(new BufferedWriter(new FileWriter(fileName + ".txt", true)));
+			success = true;
+		}
+		catch(IOException e1){
+			System.out.println("Error writing to file: " + fileName + ".txt, Please make sure"
+								+ " the file is not already  open and still present.");
+			System.err.println("File not modified.");
+			System.exit(0);
+		}
+		
+		fileOutputStream.print(name + ",");
+		fileOutputStream.print(address + ",");
+		fileOutputStream.print(phone + ",");
+		fileOutputStream.print(creditsEnrolled + ",");
+		fileOutputStream.print(instateRate + ",");
+		fileOutputStream.print(lateFeeAssessed + ",");
+		fileOutputStream.print(campusFood + ",");
+		fileOutputStream.print(healthCare + ",");
+		fileOutputStream.println(mealPlan);
+		
+		fileOutputStream.close();
 		return success;
 	}
 	

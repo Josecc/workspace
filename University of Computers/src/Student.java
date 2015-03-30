@@ -202,6 +202,11 @@ public class Student {
 		System.out.println(OutPut.printStringLeft(65, "")+"TOTAL      "+dollarFormat.format(total));
 	}
 	
+	public Boolean save(String fileName){
+		Boolean success = true;//Save file
+		return success;
+	}
+	
 	//***********helper methods*************
 	
 	/**

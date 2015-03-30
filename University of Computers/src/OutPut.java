@@ -143,4 +143,16 @@ public class OutPut // class that can be used to print one line of formatted
 		if(keyboard.hasNext())
 			keyboard.nextLine();
 	}
+	
+	public static String validateFileName(){
+		Boolean validFile = false;
+		String fileName = null;
+		
+		do{
+			fileName = OutPut.queryString("Name the file you wish to work with:", false);
+			//make sure file exists
+		}while(!validFile);
+		
+		return fileName;
+	}
 }

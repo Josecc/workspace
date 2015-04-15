@@ -38,7 +38,6 @@ public class Student {
 	
 	//********default constructor***********
 	public Student(){
-		//In case any code is needed here in the future 
 	}
 	
 	public Student(String inputVars){//Needs a string of comma-deliniated variables

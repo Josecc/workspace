@@ -1,3 +1,6 @@
+/**
+ * Author: Jose Canahui
+ */
 import java.text.DecimalFormat;
 
 

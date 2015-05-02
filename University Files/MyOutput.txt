@@ -1,0 +1,1320 @@
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First1 Middle1 Last1                    CREDITS    18
+ADDRESS                  7827 Third Street, San Francisco, CU 25380
+PHONE                    9891488741
+TUITION                  $1,503.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $133.00
+MEAL PLAN                $888.88                                                                 TOTAL      $2,533.05
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First10 Middle10 Last10                 CREDITS    16
+ADDRESS                  5416 Forth Street, Columbus, DO 22684
+PHONE                    1165875031
+TUITION                  $9,550.00
+LATE FEE                 $955.00
+INCIDENTAL               $450.00
+HEALTH CARE              $473.00
+MEAL PLAN                $3,000.00                                                                 TOTAL      $13,053.12
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First100 Middle100 Last100              CREDITS    9
+ADDRESS                  9191 First Street, Lincoln, CU 25773
+PHONE                    3066873941
+TUITION                  $3,600.00
+LATE FEE                 $.00
+INCIDENTAL               $180.00
+HEALTH CARE              $.00
+MEAL PLAN                $2,000.00                                                                 TOTAL      $5,620.11
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First11 Middle11 Last11                 CREDITS    6
+ADDRESS                  1637 Forth Street, Pheonix, CI 16683
+PHONE                    2060116975
+TUITION                  $6,000.00
+LATE FEE                 $.00
+INCIDENTAL               $300.00
+HEALTH CARE              $300.00
+MEAL PLAN                $4,900.00                                                                 TOTAL      $11,250.14
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First12 Middle12 Last12                 CREDITS    7
+ADDRESS                  1879 Ninth Street, Columbus, BC 05421
+PHONE                    4052289723
+TUITION                  $1,400.00
+LATE FEE                 $.00
+INCIDENTAL               $140.00
+HEALTH CARE              $.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $3,320.11
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First13 Middle13 Last13                 CREDITS    9
+ADDRESS                  9097 Sixth Street, Chicago, DO 50788
+PHONE                    9930287502
+TUITION                  $7,200.00
+LATE FEE                 $.00
+INCIDENTAL               $360.00
+HEALTH CARE              $360.00
+MEAL PLAN                $3,800.00                                                                 TOTAL      $11,400.13
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First14 Middle14 Last14                 CREDITS    17
+ADDRESS                  8599 Sixth Street, San Francisco, DY 60626
+PHONE                    9840153673
+TUITION                  $5,040.00
+LATE FEE                 $504.00
+INCIDENTAL               $450.00
+HEALTH CARE              $501.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $8,471.12
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First15 Middle15 Last15                 CREDITS    17
+ADDRESS                  4759 Seventh Street, Columbus, BC 18265
+PHONE                    2326210629
+TUITION                  $13,540.00
+LATE FEE                 $1,354.00
+INCIDENTAL               $600.00
+HEALTH CARE              $.00
+MEAL PLAN                $3,900.00                                                                 TOTAL      $17,480.13
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First16 Middle16 Last16                 CREDITS    18
+ADDRESS                  7369 First Street, Chicago, TR 53041
+PHONE                    5373895470
+TUITION                  $1,503.00
+LATE FEE                 $150.30
+INCIDENTAL               $120.00
+HEALTH CARE              $133.00
+MEAL PLAN                $777.77                                                                 TOTAL      $2,421.94
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First17 Middle17 Last17                 CREDITS    19
+ADDRESS                  1797 Fifth Street, New York, DY 45452
+PHONE                    9131755327
+TUITION                  $73,333,333,805.00
+LATE FEE                 $.00
+INCIDENTAL               $6.00
+HEALTH CARE              $6,136.00
+MEAL PLAN                $.00                                                                 TOTAL      $73,333,339,999.15
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First18 Middle18 Last18                 CREDITS    19
+ADDRESS                  6933 Sixth Street, Nashville, DY 33449
+PHONE                    4010637119
+TUITION                  $3,710.00
+LATE FEE                 $371.00
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $3,720.10
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First19 Middle19 Last19                 CREDITS    10
+ADDRESS                  3313 Third Street, Chicago, DB 63804
+PHONE                    9198999933
+TUITION                  $4,000.00
+LATE FEE                 $.00
+INCIDENTAL               $200.00
+HEALTH CARE              $200.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $6,120.11
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First2 Middle2 Last2                    CREDITS    22
+ADDRESS                  5410 Fifth Street, Columbus, TR 50234
+PHONE                    1943241046
+TUITION                  $3,620.00
+LATE FEE                 $362.00
+INCIDENTAL               $135.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $4,406.95
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First20 Middle20 Last20                 CREDITS    5
+ADDRESS                  506 First Street, San Francisco, CE 09603
+PHONE                    9753020397
+TUITION                  $2,000.00
+LATE FEE                 $.00
+INCIDENTAL               $100.00
+HEALTH CARE              $100.00
+MEAL PLAN                $2,000.00                                                                 TOTAL      $4,120.11
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First21 Middle21 Last21                 CREDITS    21
+ADDRESS                  8119 Sixth Street, Willmington, CU 29156
+PHONE                    1190915582
+TUITION                  $12,470.00
+LATE FEE                 $.00
+INCIDENTAL               $450.00
+HEALTH CARE              $613.00
+MEAL PLAN                $3,000.00                                                                 TOTAL      $16,113.12
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First22 Middle22 Last22                 CREDITS    19
+ADDRESS                  8364 Ninth Street, Chicago, UN 02873
+PHONE                    5962093019
+TUITION                  $1,588.00
+LATE FEE                 $.00
+INCIDENTAL               $6.00
+HEALTH CARE              $6,136.00
+MEAL PLAN                $600.00                                                                 TOTAL      $8,382.15
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First23 Middle23 Last23                 CREDITS    3
+ADDRESS                  247 Sixth Street, Willmington, BC 27199
+PHONE                    5909231301
+TUITION                  $540.00
+LATE FEE                 $54.00
+INCIDENTAL               $27.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $1,326.95
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First24 Middle24 Last24                 CREDITS    21
+ADDRESS                  5940 Third Street, Columbus, SA 25668
+PHONE                    5900979528
+TUITION                  $12,470.00
+LATE FEE                 $1,247.00
+INCIDENTAL               $450.00
+HEALTH CARE              $613.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $15,913.12
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First25 Middle25 Last25                 CREDITS    10
+ADDRESS                  8855 Seventh Street, Denver, CE 95210
+PHONE                    1366399606
+TUITION                  $2,000.00
+LATE FEE                 $200.00
+INCIDENTAL               $200.00
+HEALTH CARE              $.00
+MEAL PLAN                $2,000.00                                                                 TOTAL      $4,020.11
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First26 Middle26 Last26                 CREDITS    7
+ADDRESS                  340 Forth Street, Denver, CI 43547
+PHONE                    2056485925
+TUITION                  $406.00
+LATE FEE                 $.00
+INCIDENTAL               $1.05
+HEALTH CARE              $3,920.00
+MEAL PLAN                $.00                                                                 TOTAL      $4,384.15
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First27 Middle27 Last27                 CREDITS    13
+ADDRESS                  7722 Third Street, Columbus, BC 54657
+PHONE                    9825569649
+TUITION                  $7,780.00
+LATE FEE                 $778.00
+INCIDENTAL               $450.00
+HEALTH CARE              $387.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $10,997.12
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First28 Middle28 Last28                 CREDITS    19
+ADDRESS                  733 Forth Street, Lincoln, BC 47803
+PHONE                    0074022358
+TUITION                  $2,011.00
+LATE FEE                 $201.10
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $1,500.00                                                                 TOTAL      $3,521.19
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First29 Middle29 Last29                 CREDITS    22
+ADDRESS                  6005 Eighth Street, Nashville, SA 84464
+PHONE                    7213405831
+TUITION                  $3,370.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $157.00
+MEAL PLAN                $666.66                                                                 TOTAL      $4,201.83
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First3 Middle3 Last3                    CREDITS    8
+ADDRESS                  7732 Eighth Street, Willmington, CI 31442
+PHONE                    0398818145
+TUITION                  $640.00
+LATE FEE                 $.00
+INCIDENTAL               $64.00
+HEALTH CARE              $64.00
+MEAL PLAN                $666.66                                                                 TOTAL      $1,378.83
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First30 Middle30 Last30                 CREDITS    12
+ADDRESS                  522 Ninth Street, New York, SA 61709
+PHONE                    2191203790
+TUITION                  $758.00
+LATE FEE                 $75.80
+INCIDENTAL               $1.80
+HEALTH CARE              $5,720.00
+MEAL PLAN                $600.00                                                                 TOTAL      $7,136.15
+                    University Seven
+                    7777 Seventh Street
+                    Seam, CE 77777
+                    7777777777
+NAME                     First31 Middle31 Last31                 CREDITS    3
+ADDRESS                  4437 Seventh Street, Columbus, CI 24642
+PHONE                    1821494468
+TUITION                  $420.00
+LATE FEE                 $.00
+INCIDENTAL               $21.00
+HEALTH CARE              $.00
+MEAL PLAN                $555.55                                                                 TOTAL      $982.71
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First32 Middle32 Last32                 CREDITS    7
+ADDRESS                  1737 Fifth Street, Columbus, DY 33539
+PHONE                    4556234660
+TUITION                  $2,100.00
+LATE FEE                 $210.00
+INCIDENTAL               $210.00
+HEALTH CARE              $210.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $5,140.12
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First33 Middle33 Last33                 CREDITS    20
+ADDRESS                  3645 Ninth Street, Willmington, CI 01592
+PHONE                    1593448593
+TUITION                  $3,090.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $.00
+MEAL PLAN                $888.88                                                                 TOTAL      $3,987.05
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First34 Middle34 Last34                 CREDITS    15
+ADDRESS                  4577 Sixth Street, Willmington, CU 60684
+PHONE                    9783344256
+TUITION                  $1,621.00
+LATE FEE                 $162.10
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $999.99                                                                 TOTAL      $2,631.18
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First35 Middle35 Last35                 CREDITS    18
+ADDRESS                  3777 Seventh Street, Columbus, BC 98637
+PHONE                    9423238194
+TUITION                  $73,333,333,746.00
+LATE FEE                 $7,333,333,374.60
+INCIDENTAL               $6.00
+HEALTH CARE              $6,077.00
+MEAL PLAN                $600.00                                                                 TOTAL      $73,333,340,481.15
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First36 Middle36 Last36                 CREDITS    12
+ADDRESS                  7537 Third Street, New York, DY 09328
+PHONE                    5762061967
+TUITION                  $1,190.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $.00
+MEAL PLAN                $1,000.00                                                                 TOTAL      $2,200.10
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First37 Middle37 Last37                 CREDITS    19
+ADDRESS                  7105 Sixth Street, Pheonix, UN 15714
+PHONE                    3518252757
+TUITION                  $7,510.00
+LATE FEE                 $.00
+INCIDENTAL               $600.00
+HEALTH CARE              $.00
+MEAL PLAN                $3,900.00                                                                 TOTAL      $11,450.13
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First38 Middle38 Last38                 CREDITS    14
+ADDRESS                  6032 Seventh Street, Lincoln, TR 95042
+PHONE                    2924659425
+TUITION                  $5,570.00
+LATE FEE                 $.00
+INCIDENTAL               $300.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $5,590.11
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First39 Middle39 Last39                 CREDITS    10
+ADDRESS                  7785 Eighth Street, Pheonix, DY 99267
+PHONE                    4026648055
+TUITION                  $6,000.00
+LATE FEE                 $.00
+INCIDENTAL               $300.00
+HEALTH CARE              $300.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $9,230.12
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First4 Middle4 Last4                    CREDITS    5
+ADDRESS                  5029 Eighth Street, Pheonix, TR 73482
+PHONE                    1042855025
+TUITION                  $5,000.00
+LATE FEE                 $.00
+INCIDENTAL               $250.00
+HEALTH CARE              $.00
+MEAL PLAN                $4,800.00                                                                 TOTAL      $9,850.14
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First40 Middle40 Last40                 CREDITS    18
+ADDRESS                  9972 Ninth Street, Lincoln, CU 36546
+PHONE                    0699313168
+TUITION                  $3,530.00
+LATE FEE                 $353.00
+INCIDENTAL               $300.00
+HEALTH CARE              $.00
+MEAL PLAN                $2,000.00                                                                 TOTAL      $5,550.11
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First41 Middle41 Last41                 CREDITS    17
+ADDRESS                  5474 Seventh Street, Chicago, UN 88871
+PHONE                    1078951268
+TUITION                  $1,358.00
+LATE FEE                 $135.80
+INCIDENTAL               $6.00
+HEALTH CARE              $.00
+MEAL PLAN                $600.00                                                                 TOTAL      $2,016.15
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First42 Middle42 Last42                 CREDITS    19
+ADDRESS                  3198 Ninth Street, Pheonix, DO 56111
+PHONE                    6412958836
+TUITION                  $5,610.00
+LATE FEE                 $561.00
+INCIDENTAL               $450.00
+HEALTH CARE              $557.00
+MEAL PLAN                $3,000.00                                                                 TOTAL      $9,197.12
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First43 Middle43 Last43                 CREDITS    12
+ADDRESS                  1946 Eighth Street, Nashville, SA 01451
+PHONE                    5796924094
+TUITION                  $7,190.00
+LATE FEE                 $.00
+INCIDENTAL               $360.00
+HEALTH CARE              $358.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $10,478.12
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First44 Middle44 Last44                 CREDITS    7
+ADDRESS                  219 Eighth Street, Chicago, DB 95147
+PHONE                    5680130243
+TUITION                  $700.00
+LATE FEE                 $70.00
+INCIDENTAL               $70.00
+HEALTH CARE              $70.00
+MEAL PLAN                $800.00                                                                 TOTAL      $1,580.10
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First45 Middle45 Last45                 CREDITS    9
+ADDRESS                  2427 Ninth Street, Denver, CE 96768
+PHONE                    9062327036
+TUITION                  $2,700.00
+LATE FEE                 $.00
+INCIDENTAL               $270.00
+HEALTH CARE              $270.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $5,800.12
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First46 Middle46 Last46                 CREDITS    13
+ADDRESS                  8173 Tenth Street, Columbus, CI 54248
+PHONE                    7891054469
+TUITION                  $5,180.00
+LATE FEE                 $.00
+INCIDENTAL               $600.00
+HEALTH CARE              $517.00
+MEAL PLAN                $3,800.00                                                                 TOTAL      $9,537.13
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First47 Middle47 Last47                 CREDITS    11
+ADDRESS                  5798 Third Street, Lincoln, DB 93060
+PHONE                    1019892977
+TUITION                  $880.00
+LATE FEE                 $88.00
+INCIDENTAL               $88.00
+HEALTH CARE              $87.00
+MEAL PLAN                $888.88                                                                 TOTAL      $1,864.05
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First48 Middle48 Last48                 CREDITS    9
+ADDRESS                  4452 Sixth Street, Columbus, CE 84183
+PHONE                    1281038102
+TUITION                  $2,700.00
+LATE FEE                 $270.00
+INCIDENTAL               $270.00
+HEALTH CARE              $270.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $5,800.12
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First49 Middle49 Last49                 CREDITS    17
+ADDRESS                  364 Second Street, New York, CU 97847
+PHONE                    8631085452
+TUITION                  $6,740.00
+LATE FEE                 $674.00
+INCIDENTAL               $600.00
+HEALTH CARE              $671.00
+MEAL PLAN                $.00                                                                 TOTAL      $7,451.13
+                    University Seven
+                    7777 Seventh Street
+                    Seam, CE 77777
+                    7777777777
+NAME                     First5 Middle5 Last5                    CREDITS    17
+ADDRESS                  517 Tenth Street, Pheonix, DY 57885
+PHONE                    3052187369
+TUITION                  $2,374.00
+LATE FEE                 $237.40
+INCIDENTAL               $105.00
+HEALTH CARE              $110.00
+MEAL PLAN                $666.66                                                                 TOTAL      $3,157.82
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First50 Middle50 Last50                 CREDITS    22
+ADDRESS                  2906 Third Street, Chicago, TR 58891
+PHONE                    7558346481
+TUITION                  $6,450.00
+LATE FEE                 $.00
+INCIDENTAL               $450.00
+HEALTH CARE              $641.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $10,021.12
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First51 Middle51 Last51                 CREDITS    14
+ADDRESS                  4360 Ninth Street, Nashville, CE 15343
+PHONE                    2087166766
+TUITION                  $5,570.00
+LATE FEE                 $557.00
+INCIDENTAL               $600.00
+HEALTH CARE              $556.00
+MEAL PLAN                $4,000.00                                                                 TOTAL      $10,166.13
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First52 Middle52 Last52                 CREDITS    15
+ADDRESS                  4071 Second Street, Nashville, UN 64179
+PHONE                    3874431518
+TUITION                  $2,960.00
+LATE FEE                 $.00
+INCIDENTAL               $150.00
+HEALTH CARE              $145.00
+MEAL PLAN                $900.00                                                                 TOTAL      $4,015.10
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First53 Middle53 Last53                 CREDITS    3
+ADDRESS                  2877 Sixth Street, Seattle, SA 76294
+PHONE                    6864201795
+TUITION                  $19,999,999,998.00
+LATE FEE                 $.00
+INCIDENTAL               $.45
+HEALTH CARE              $1,680.00
+MEAL PLAN                $600.00                                                                 TOTAL      $20,000,002,336.15
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First54 Middle54 Last54                 CREDITS    22
+ADDRESS                  7338 Forth Street, Seattle, CI 61892
+PHONE                    1948309786
+TUITION                  $4,562.00
+LATE FEE                 $.00
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $4,572.19
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First55 Middle55 Last55                 CREDITS    3
+ADDRESS                  5384 Ninth Street, Pheonix, CU 89712
+PHONE                    7900953283
+TUITION                  $900.00
+LATE FEE                 $.00
+INCIDENTAL               $90.00
+HEALTH CARE              $90.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $3,820.12
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First56 Middle56 Last56                 CREDITS    11
+ADDRESS                  5500 Fifth Street, New York, DB 57710
+PHONE                    5325332182
+TUITION                  $638.00
+LATE FEE                 $.00
+INCIDENTAL               $1.65
+HEALTH CARE              $5,660.00
+MEAL PLAN                $.00                                                                 TOTAL      $6,356.15
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First57 Middle57 Last57                 CREDITS    14
+ADDRESS                  534 Forth Street, Nashville, SA 83085
+PHONE                    6394917998
+TUITION                  $13,700.00
+LATE FEE                 $.00
+INCIDENTAL               $750.00
+HEALTH CARE              $696.00
+MEAL PLAN                $.00                                                                 TOTAL      $14,446.14
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First58 Middle58 Last58                 CREDITS    7
+ADDRESS                  4607 Seventh Street, Nashville, DO 80112
+PHONE                    8943449028
+TUITION                  $1,120.00
+LATE FEE                 $112.00
+INCIDENTAL               $56.00
+HEALTH CARE              $56.00
+MEAL PLAN                $777.77                                                                 TOTAL      $1,961.94
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First59 Middle59 Last59                 CREDITS    8
+ADDRESS                  7422 First Street, San Francisco, CE 51761
+PHONE                    8927545752
+TUITION                  $3,200.00
+LATE FEE                 $.00
+INCIDENTAL               $160.00
+HEALTH CARE              $160.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $5,280.11
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First6 Middle6 Last6                    CREDITS    14
+ADDRESS                  291 Fifth Street, New York, DO 97906
+PHONE                    6721127679
+TUITION                  $11,170.00
+LATE FEE                 $1,117.00
+INCIDENTAL               $600.00
+HEALTH CARE              $.00
+MEAL PLAN                $3,800.00                                                                 TOTAL      $15,010.13
+                    University Seven
+                    7777 Seventh Street
+                    Seam, CE 77777
+                    7777777777
+NAME                     First60 Middle60 Last60                 CREDITS    17
+ADDRESS                  4552 Third Street, Nashville, DO 86773
+PHONE                    2751212593
+TUITION                  $2,374.00
+LATE FEE                 $237.40
+INCIDENTAL               $105.00
+HEALTH CARE              $.00
+MEAL PLAN                $666.66                                                                 TOTAL      $3,047.82
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First61 Middle61 Last61                 CREDITS    14
+ADDRESS                  4984 Tenth Street, New York, CI 07236
+PHONE                    7164986939
+TUITION                  $1,147.00
+LATE FEE                 $114.70
+INCIDENTAL               $120.00
+HEALTH CARE              $108.00
+MEAL PLAN                $777.77                                                                 TOTAL      $2,040.94
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First62 Middle62 Last62                 CREDITS    5
+ADDRESS                  8328 Eighth Street, San Francisco, DY 36656
+PHONE                    4204913318
+TUITION                  $555.00
+LATE FEE                 $55.50
+INCIDENTAL               $50.00
+HEALTH CARE              $50.00
+MEAL PLAN                $999.99                                                                 TOTAL      $1,615.18
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First63 Middle63 Last63                 CREDITS    13
+ADDRESS                  3715 Ninth Street, Willmington, DO 56685
+PHONE                    2558457013
+TUITION                  $1,421.00
+LATE FEE                 $.00
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $1,431.19
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First64 Middle64 Last64                 CREDITS    3
+ADDRESS                  374 Seventh Street, Chicago, SA 43858
+PHONE                    0802592303
+TUITION                  $1,200.00
+LATE FEE                 $120.00
+INCIDENTAL               $120.00
+HEALTH CARE              $120.00
+MEAL PLAN                $.00                                                                 TOTAL      $1,360.13
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First65 Middle65 Last65                 CREDITS    22
+ADDRESS                  6382 Seventh Street, Willmington, TR 73689
+PHONE                    6212688133
+TUITION                  $73,333,333,982.00
+LATE FEE                 $.00
+INCIDENTAL               $6.00
+HEALTH CARE              $.00
+MEAL PLAN                $580.00                                                                 TOTAL      $73,333,334,620.15
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First66 Middle66 Last66                 CREDITS    17
+ADDRESS                  6946 Second Street, Willmington, CU 66240
+PHONE                    1584802679
+TUITION                  $1,821.00
+LATE FEE                 $182.10
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $1,831.19
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First67 Middle67 Last67                 CREDITS    15
+ADDRESS                  6910 Third Street, San Francisco, SA 49508
+PHONE                    4083786073
+TUITION                  $2,960.00
+LATE FEE                 $.00
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $2,970.10
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First68 Middle68 Last68                 CREDITS    6
+ADDRESS                  3951 Second Street, Willmington, UN 09919
+PHONE                    0219323088
+TUITION                  $3,000.00
+LATE FEE                 $300.00
+INCIDENTAL               $300.00
+HEALTH CARE              $.00
+MEAL PLAN                $4,900.00                                                                 TOTAL      $7,950.14
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First69 Middle69 Last69                 CREDITS    7
+ADDRESS                  9135 First Street, Willmington, TR 15259
+PHONE                    4918130255
+TUITION                  $2,800.00
+LATE FEE                 $280.00
+INCIDENTAL               $140.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $2,820.11
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First7 Middle7 Last7                    CREDITS    7
+ADDRESS                  8704 Sixth Street, Denver, DO 35452
+PHONE                    4917974359
+TUITION                  $630.00
+LATE FEE                 $.00
+INCIDENTAL               $63.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $1,416.95
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First70 Middle70 Last70                 CREDITS    9
+ADDRESS                  149 Third Street, Willmington, UN 74506
+PHONE                    0490572344
+TUITION                  $3,600.00
+LATE FEE                 $360.00
+INCIDENTAL               $180.00
+HEALTH CARE              $.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $5,520.11
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First71 Middle71 Last71                 CREDITS    13
+ADDRESS                  9583 Tenth Street, Willmington, CU 89329
+PHONE                    8826790734
+TUITION                  $3,880.00
+LATE FEE                 $.00
+INCIDENTAL               $450.00
+HEALTH CARE              $387.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $7,197.12
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First72 Middle72 Last72                 CREDITS    8
+ADDRESS                  6188 Eighth Street, Denver, DO 69557
+PHONE                    4323252599
+TUITION                  $2,400.00
+LATE FEE                 $240.00
+INCIDENTAL               $240.00
+HEALTH CARE              $240.00
+MEAL PLAN                $2,900.00                                                                 TOTAL      $5,570.12
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First73 Middle73 Last73                 CREDITS    19
+ADDRESS                  968 Fifth Street, Chicago, DB 55082
+PHONE                    7822523014
+TUITION                  $3,710.00
+LATE FEE                 $.00
+INCIDENTAL               $300.00
+HEALTH CARE              $367.00
+MEAL PLAN                $1,800.00                                                                 TOTAL      $5,897.11
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First74 Middle74 Last74                 CREDITS    17
+ADDRESS                  2362 Third Street, Seattle, DO 88393
+PHONE                    6555636867
+TUITION                  $13,540.00
+LATE FEE                 $.00
+INCIDENTAL               $600.00
+HEALTH CARE              $671.00
+MEAL PLAN                $.00                                                                 TOTAL      $14,251.13
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First75 Middle75 Last75                 CREDITS    18
+ADDRESS                  5593 Fifth Street, Chicago, DY 13889
+PHONE                    0176591740
+TUITION                  $2,810.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $133.00
+MEAL PLAN                $777.77                                                                 TOTAL      $3,728.94
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First76 Middle76 Last76                 CREDITS    21
+ADDRESS                  560 Fifth Street, Denver, CU 51114
+PHONE                    8658184203
+TUITION                  $3,230.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $.00
+MEAL PLAN                $666.66                                                                 TOTAL      $3,904.83
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First77 Middle77 Last77                 CREDITS    19
+ADDRESS                  310 Fifth Street, Seattle, SA 79860
+PHONE                    8195623109
+TUITION                  $4,022.00
+LATE FEE                 $402.20
+INCIDENTAL               $150.00
+HEALTH CARE              $177.00
+MEAL PLAN                $999.99                                                                 TOTAL      $5,209.18
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First78 Middle78 Last78                 CREDITS    17
+ADDRESS                  8304 Third Street, Columbus, SA 48583
+PHONE                    3556264415
+TUITION                  $13,540.00
+LATE FEE                 $.00
+INCIDENTAL               $600.00
+HEALTH CARE              $671.00
+MEAL PLAN                $3,900.00                                                                 TOTAL      $18,151.13
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First79 Middle79 Last79                 CREDITS    9
+ADDRESS                  7254 Second Street, San Francisco, CU 95131
+PHONE                    6634399010
+TUITION                  $9,000.00
+LATE FEE                 $900.00
+INCIDENTAL               $450.00
+HEALTH CARE              $.00
+MEAL PLAN                $4,900.00                                                                 TOTAL      $13,950.14
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First8 Middle8 Last8                    CREDITS    20
+ADDRESS                  3991 Third Street, Seattle, CU 35510
+PHONE                    9796767789
+TUITION                  $1,769.00
+LATE FEE                 $176.90
+INCIDENTAL               $135.00
+HEALTH CARE              $145.00
+MEAL PLAN                $777.77                                                                 TOTAL      $2,700.95
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First80 Middle80 Last80                 CREDITS    20
+ADDRESS                  5330 Third Street, Chicago, DB 22397
+PHONE                    4855943215
+TUITION                  $4,202.00
+LATE FEE                 $.00
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $4,212.19
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First81 Middle81 Last81                 CREDITS    15
+ADDRESS                  6998 Seventh Street, New York, DO 42153
+PHONE                    2640582463
+TUITION                  $1,236.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $2,021.94
+                    University Seven
+                    7777 Seventh Street
+                    Seam, CE 77777
+                    7777777777
+NAME                     First82 Middle82 Last82                 CREDITS    21
+ADDRESS                  5623 Tenth Street, Pheonix, CE 26774
+PHONE                    8643185809
+TUITION                  $2,903.00
+LATE FEE                 $290.30
+INCIDENTAL               $105.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $3,687.93
+                    University Five
+                    5555 Fifth Street
+                    Pyat, CI 55555
+                    5555555555
+NAME                     First83 Middle83 Last83                 CREDITS    8
+ADDRESS                  3328 Seventh Street, Willmington, TR 31041
+PHONE                    0344948256
+TUITION                  $8,000.00
+LATE FEE                 $.00
+INCIDENTAL               $400.00
+HEALTH CARE              $.00
+MEAL PLAN                $.00                                                                 TOTAL      $8,050.14
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First84 Middle84 Last84                 CREDITS    13
+ADDRESS                  345 Eighth Street, Seattle, BC 51804
+PHONE                    5668128674
+TUITION                  $2,060.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $101.00
+MEAL PLAN                $666.66                                                                 TOTAL      $2,835.83
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First85 Middle85 Last85                 CREDITS    22
+ADDRESS                  1309 Seventh Street, Willmington, TR 07688
+PHONE                    1366411113
+TUITION                  $4,562.00
+LATE FEE                 $456.20
+INCIDENTAL               $150.00
+HEALTH CARE              $.00
+MEAL PLAN                $1,500.00                                                                 TOTAL      $6,072.19
+                    University Seven
+                    7777 Seventh Street
+                    Seam, CE 77777
+                    7777777777
+NAME                     First86 Middle86 Last86                 CREDITS    14
+ADDRESS                  9590 Eighth Street, Pheonix, CE 87645
+PHONE                    5509978489
+TUITION                  $977.00
+LATE FEE                 $.00
+INCIDENTAL               $105.00
+HEALTH CARE              $94.00
+MEAL PLAN                $555.55                                                                 TOTAL      $1,633.71
+                    University Eight
+                    8888 Eighth Street
+                    Voseam, BC 88888
+                    8888888888
+NAME                     First87 Middle87 Last87                 CREDITS    22
+ADDRESS                  2832 Tenth Street, Columbus, UN 79907
+PHONE                    8511003820
+TUITION                  $3,370.00
+LATE FEE                 $.00
+INCIDENTAL               $120.00
+HEALTH CARE              $.00
+MEAL PLAN                $777.77                                                                 TOTAL      $4,155.94
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First88 Middle88 Last88                 CREDITS    18
+ADDRESS                  3387 Fifth Street, Willmington, CI 38221
+PHONE                    6444142182
+TUITION                  $7,130.00
+LATE FEE                 $.00
+INCIDENTAL               $300.00
+HEALTH CARE              $349.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $9,399.11
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First89 Middle89 Last89                 CREDITS    12
+ADDRESS                  6303 Tenth Street, Willmington, DO 77993
+PHONE                    0558791006
+TUITION                  $2,140.00
+LATE FEE                 $214.00
+INCIDENTAL               $108.00
+HEALTH CARE              $.00
+MEAL PLAN                $888.88                                                                 TOTAL      $3,038.06
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First9 Middle9 Last9                    CREDITS    9
+ADDRESS                  2896 Sixth Street, Columbus, CE 53007
+PHONE                    8101360076
+TUITION                  $3,600.00
+LATE FEE                 $.00
+INCIDENTAL               $180.00
+HEALTH CARE              $180.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $5,700.11
+                    University Ten
+                    1A Tenth Street
+                    Dyesot, DY 10101
+                    1010101010
+NAME                     First90 Middle90 Last90                 CREDITS    6
+ADDRESS                  4878 First Street, Denver, SA 60637
+PHONE                    4100171892
+TUITION                  $1,332.00
+LATE FEE                 $133.20
+INCIDENTAL               $60.00
+HEALTH CARE              $60.00
+MEAL PLAN                $1,500.00                                                                 TOTAL      $2,902.19
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First91 Middle91 Last91                 CREDITS    9
+ADDRESS                  9675 Tenth Street, Nashville, BC 05008
+PHONE                    6721062851
+TUITION                  $3,600.00
+LATE FEE                 $.00
+INCIDENTAL               $180.00
+HEALTH CARE              $180.00
+MEAL PLAN                $1,900.00                                                                 TOTAL      $5,700.11
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First92 Middle92 Last92                 CREDITS    13
+ADDRESS                  1115 Sixth Street, Pheonix, CU 55100
+PHONE                    2802380244
+TUITION                  $1,280.00
+LATE FEE                 $128.00
+INCIDENTAL               $150.00
+HEALTH CARE              $127.00
+MEAL PLAN                $900.00                                                                 TOTAL      $2,317.10
+                    University Six
+                    6666 Sixth Street
+                    Hex, Sheast SA
+                    66666
+NAME                     First93 Middle93 Last93                 CREDITS    3
+ADDRESS                  8490 Ninth Street, Seattle, DB 11865
+PHONE                    0756678244
+TUITION                  $19,999,999,998.00
+LATE FEE                 $1,999,999,999.80
+INCIDENTAL               $.45
+HEALTH CARE              $.00
+MEAL PLAN                $600.00                                                                 TOTAL      $20,000,000,656.15
+                    University One
+                    1111 First Lane
+                    Primus, UN 11111
+                    1111111111
+NAME                     First94 Middle94 Last94                 CREDITS    3
+ADDRESS                  9394 Seventh Street, Seattle, CU 60518
+PHONE                    2676321436
+TUITION                  $300.00
+LATE FEE                 $.00
+INCIDENTAL               $30.00
+HEALTH CARE              $30.00
+MEAL PLAN                $900.00                                                                 TOTAL      $1,240.10
+                    University Four
+                    4444 Fourth Street
+                    Quad, CU 44444
+                    4444444444
+NAME                     First95 Middle95 Last95                 CREDITS    7
+ADDRESS                  3109 Sixth Street, Nashville, DO 25902
+PHONE                    4119034097
+TUITION                  $2,800.00
+LATE FEE                 $.00
+INCIDENTAL               $280.00
+HEALTH CARE              $.00
+MEAL PLAN                $3,900.00                                                                 TOTAL      $6,740.13
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First96 Middle96 Last96                 CREDITS    14
+ADDRESS                  9557 Sixth Street, Nashville, CU 17520
+PHONE                    8138521006
+TUITION                  $4,170.00
+LATE FEE                 $417.00
+INCIDENTAL               $450.00
+HEALTH CARE              $416.00
+MEAL PLAN                $.00                                                                 TOTAL      $4,616.12
+                    University Nine
+                    9999 Ninth Street
+                    Dyevat, DB 99999
+                    9999999999
+NAME                     First97 Middle97 Last97                 CREDITS    18
+ADDRESS                  1822 First Street, San Francisco, CI 59043
+PHONE                    1513850697
+TUITION                  $1,613.00
+LATE FEE                 $.00
+INCIDENTAL               $135.00
+HEALTH CARE              $.00
+MEAL PLAN                $999.99                                                                 TOTAL      $2,622.17
+                    University Three
+                    3333 Third Street
+                    Thrice, TR 33333
+                    3333333333
+NAME                     First98 Middle98 Last98                 CREDITS    8
+ADDRESS                  5198 Second Street, Willmington, DO 41406
+PHONE                    3213579953
+TUITION                  $4,800.00
+LATE FEE                 $480.00
+INCIDENTAL               $240.00
+HEALTH CARE              $240.00
+MEAL PLAN                $2,800.00                                                                 TOTAL      $7,870.12
+                    University Two
+                    2222 Second Street
+                    Secundus, DO 22222
+                    2222222222
+NAME                     First99 Middle99 Last99                 CREDITS    22
+ADDRESS                  9002 Sixth Street, New York, SA 09347
+PHONE                    2470103122
+TUITION                  $8,650.00
+LATE FEE                 $865.00
+INCIDENTAL               $300.00
+HEALTH CARE              $.00
+MEAL PLAN                $2,000.00                                                                 TOTAL      $10,670.11
+                       University Eight
+NUMBER OF STUDENTS            13
+INSTATE                       6
+OUT OF STATE                  7
+MEAL PLAN      STUFF-YOUR-FACE                    3    $2,666.64
+               I-CAN'T-STAND-THIS-FOOD            6    $4,666.62
+               I'M-ON-A-DIET                      4    $2,666.64
+                                     FOOD SUBTOTAL     $9,999.90
+TUITION                       $25,959.00
+LATE FEE                      $465.00
+INCEDINTAL                    $1,408.00
+HEALH CARE                    $972.00        TOTAL $37,037.11
+                        University Five
+NUMBER OF STUDENTS            6
+INSTATE                       1
+OUT OF STATE                  5
+MEAL PLAN      STUFF-YOUR-FACE                    0    $.00
+               I-CAN'T-STAND-THIS-FOOD            3    $14,700.00
+               I'M-ON-A-DIET                      1    $4,800.00
+                                     FOOD SUBTOTAL    $19,500.00
+TUITION                       $44,700.00
+LATE FEE                      $1,200.00
+INCEDINTAL                    $2,450.00
+HEALH CARE                    $996.00        TOTAL $65,496.84
+                        University Four
+NUMBER OF STUDENTS            11
+INSTATE                       6
+OUT OF STATE                  5
+MEAL PLAN      STUFF-YOUR-FACE                    1    $4,000.00
+               I-CAN'T-STAND-THIS-FOOD            4    $15,600.00
+               I'M-ON-A-DIET                      3    $11,400.00
+                                     FOOD SUBTOTAL    $31,000.00
+TUITION                       $87,990.00
+LATE FEE                      $3,822.00
+INCEDINTAL                    $5,560.00
+HEALH CARE                    $3,566.00      TOTAL $122,997.43
+                        University Nine
+NUMBER OF STUDENTS            6
+INSTATE                       3
+OUT OF STATE                  3
+MEAL PLAN      STUFF-YOUR-FACE                    1    $999.99
+               I-CAN'T-STAND-THIS-FOOD            1    $888.88
+               I'M-ON-A-DIET                      4    $3,111.08
+                                     FOOD SUBTOTAL     $4,999.95
+TUITION                       $10,312.00
+LATE FEE                      $806.90
+INCEDINTAL                    $603.00
+HEALH CARE                    $145.00        TOTAL $15,512.03
+                         University One
+NUMBER OF STUDENTS            7
+INSTATE                       4
+OUT OF STATE                  3
+MEAL PLAN      STUFF-YOUR-FACE                    1    $1,000.00
+               I-CAN'T-STAND-THIS-FOOD            3    $2,700.00
+               I'M-ON-A-DIET                      1    $800.00
+                                     FOOD SUBTOTAL     $4,500.00
+TUITION                       $13,100.00
+LATE FEE                      $569.00
+INCEDINTAL                    $820.00
+HEALH CARE                    $372.00        TOTAL $18,042.70
+                       University Seven
+NUMBER OF STUDENTS            5
+INSTATE                       1
+OUT OF STATE                  4
+MEAL PLAN      STUFF-YOUR-FACE                    1    $777.77
+               I-CAN'T-STAND-THIS-FOOD            2    $1,333.32
+               I'M-ON-A-DIET                      2    $1,111.10
+                                     FOOD SUBTOTAL     $3,222.19
+TUITION                       $9,048.00
+LATE FEE                      $765.10
+INCEDINTAL                    $441.00
+HEALH CARE                    $204.00        TOTAL $12,509.99
+                         University Six
+NUMBER OF STUDENTS            10
+INSTATE                       5
+OUT OF STATE                  5
+MEAL PLAN      STUFF-YOUR-FACE                    0    $.00
+               I-CAN'T-STAND-THIS-FOOD            6    $3,600.00
+               I'M-ON-A-DIET                      1    $580.00
+                                     FOOD SUBTOTAL     $4,180.00
+TUITION                       $260,000,006,277.00
+LATE FEE                      $9,333,333,586.00
+INCEDINTAL                    $35.40
+HEALH CARE                    $35,329.00     TOTAL $260,000,046,367.50
+                         University Ten
+NUMBER OF STUDENTS            10
+INSTATE                       5
+OUT OF STATE                  5
+MEAL PLAN      STUFF-YOUR-FACE                    3    $4,500.00
+               I-CAN'T-STAND-THIS-FOOD            3    $2,999.97
+               I'M-ON-A-DIET                      0    $.00
+                                     FOOD SUBTOTAL     $7,499.97
+TUITION                       $26,109.00
+LATE FEE                      $1,592.40
+INCEDINTAL                    $1,310.00
+HEALH CARE                    $287.00        TOTAL $33,997.87
+                       University Three
+NUMBER OF STUDENTS            17
+INSTATE                       10
+OUT OF STATE                  7
+MEAL PLAN      STUFF-YOUR-FACE                    3    $9,000.00
+               I-CAN'T-STAND-THIS-FOOD            6    $17,400.00
+               I'M-ON-A-DIET                      7    $19,600.00
+                                     FOOD SUBTOTAL    $46,000.00
+TUITION                       $96,210.00
+LATE FEE                      $5,662.00
+INCEDINTAL                    $6,030.00
+HEALH CARE                    $6,566.00      TOTAL $149,288.04
+                         University Two
+NUMBER OF STUDENTS            15
+INSTATE                       4
+OUT OF STATE                  11
+MEAL PLAN      STUFF-YOUR-FACE                    5    $10,000.00
+               I-CAN'T-STAND-THIS-FOOD            7    $13,300.00
+               I'M-ON-A-DIET                      1    $1,800.00
+                                     FOOD SUBTOTAL    $25,100.00
+TUITION                       $58,390.00
+LATE FEE                      $2,058.00
+INCEDINTAL                    $3,160.00
+HEALH CARE                    $1,536.00      TOTAL $85,327.65

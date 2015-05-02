@@ -1,0 +1,100 @@
+First1,Middle1,Last1,20,F,7827 Third Street,San Francisco,CU,25380,9891488741,University Eight,18,true,true,A,false
+First2,Middle2,Last2,22,M,5410 Fifth Street,Columbus,TR,50234,1943241046,University Nine,22,false,false,C,true
+First3,Middle3,Last3,26,F,7732 Eighth Street,Willmington,CI,31442,0398818145,University Eight,8,true,true,C,false
+First4,Middle4,Last4,23,M,5029 Eighth Street,Pheonix,TR,73482,1042855025,University Five,5,false,false,C,false
+First5,Middle5,Last5,23,F,517 Tenth Street,Pheonix,DY,57885,3052187369,University Seven,17,false,true,B,true
+First6,Middle6,Last6,25,M,291 Fifth Street,New York,DO,97906,6721127679,University Four,14,false,false,C,true
+First7,Middle7,Last7,24,F,8704 Sixth Street,Denver,DO,35452,4917974359,University Nine,7,true,false,C,false
+First8,Middle8,Last8,24,M,3991 Third Street,Seattle,CU,35510,9796767789,University Nine,20,true,true,C,true
+First9,Middle9,Last9,20,M,2896 Sixth Street,Columbus,CE,53007,8101360076,University Two,9,false,true,B,false
+First10,Middle10,Last10,20,F,5416 Forth Street,Columbus,DO,22684,1165875031,University Three,16,false,true,A,true
+First11,Middle11,Last11,21,M,1637 Forth Street,Pheonix,CI,16683,2060116975,University Five,6,false,true,B,false
+First12,Middle12,Last12,20,M,1879 Ninth Street,Columbus,BC,05421,4052289723,University Two,7,true,false,B,false
+First13,Middle13,Last13,19,M,9097 Sixth Street,Chicago,DO,50788,9930287502,University Four,9,false,true,C,false
+First14,Middle14,Last14,23,M,8599 Sixth Street,San Francisco,DY,60626,9840153673,University Three,17,true,true,B,true
+First15,Middle15,Last15,24,M,4759 Seventh Street,Columbus,BC,18265,2326210629,University Four,17,false,false,B,true
+First16,Middle16,Last16,20,M,7369 First Street,Chicago,TR,53041,5373895470,University Eight,18,true,true,B,true
+First17,Middle17,Last17,26,M,1797 Fifth Street,New York,DY,45452,9131755327,University Six,19,true,true,D,false
+First18,Middle18,Last18,18,M,6933 Sixth Street,Nashville,DY,33449,4010637119,University One,19,false,false,D,true
+First19,Middle19,Last19,22,M,3313 Third Street,Chicago,DB,63804,9198999933,University Two,10,false,true,B,false
+First20,Middle20,Last20,21,F,506 First Street,San Francisco,CE,09603,9753020397,University Two,5,false,true,A,false
+First21,Middle21,Last21,26,F,8119 Sixth Street,Willmington,CU,29156,1190915582,University Three,21,false,true,A,false
+First22,Middle22,Last22,17,F,8364 Ninth Street,Chicago,UN,02873,5962093019,University Six,19,false,true,B,false
+First23,Middle23,Last23,26,F,247 Sixth Street,Willmington,BC,27199,5909231301,University Nine,3,false,false,C,true
+First24,Middle24,Last24,20,M,5940 Third Street,Columbus,SA,25668,5900979528,University Three,21,false,true,C,true
+First25,Middle25,Last25,23,M,8855 Seventh Street,Denver,CE,95210,1366399606,University Two,10,true,false,A,true
+First26,Middle26,Last26,23,F,340 Forth Street,Denver,CI,43547,2056485925,University Six,7,false,true,D,false
+First27,Middle27,Last27,25,F,7722 Third Street,Columbus,BC,54657,9825569649,University Three,13,false,true,C,true
+First28,Middle28,Last28,21,F,733 Forth Street,Lincoln,BC,47803,0074022358,University Ten,19,true,false,A,true
+First29,Middle29,Last29,17,M,6005 Eighth Street,Nashville,SA,84464,7213405831,University Eight,22,false,true,C,false
+First30,Middle30,Last30,24,F,522 Ninth Street,New York,SA,61709,2191203790,University Six,12,false,true,B,true
+First31,Middle31,Last31,22,F,4437 Seventh Street,Columbus,CI,24642,1821494468,University Seven,3,false,false,C,false
+First32,Middle32,Last32,25,F,1737 Fifth Street,Columbus,DY,33539,4556234660,University Three,7,true,true,C,true
+First33,Middle33,Last33,21,M,3645 Ninth Street,Willmington,CI,01592,1593448593,University Eight,20,false,false,A,false
+First34,Middle34,Last34,17,M,4577 Sixth Street,Willmington,CU,60684,9783344256,University Ten,15,true,false,B,true
+First35,Middle35,Last35,23,F,3777 Seventh Street,Columbus,BC,98637,9423238194,University Six,18,true,true,B,true
+First36,Middle36,Last36,19,F,7537 Third Street,New York,DY,09328,5762061967,University One,12,true,false,A,false
+First37,Middle37,Last37,24,F,7105 Sixth Street,Pheonix,UN,15714,3518252757,University Four,19,true,false,B,false
+First38,Middle38,Last38,23,F,6032 Seventh Street,Lincoln,TR,95042,2924659425,University Two,14,false,false,D,false
+First39,Middle39,Last39,21,F,7785 Eighth Street,Pheonix,DY,99267,4026648055,University Three,10,false,true,B,false
+First40,Middle40,Last40,22,M,9972 Ninth Street,Lincoln,CU,36546,0699313168,University Two,18,true,false,A,true
+First41,Middle41,Last41,17,M,5474 Seventh Street,Chicago,UN,88871,1078951268,University Six,17,false,false,B,true
+First42,Middle42,Last42,19,M,3198 Ninth Street,Pheonix,DO,56111,6412958836,University Three,19,true,true,A,true
+First43,Middle43,Last43,26,F,1946 Eighth Street,Nashville,SA,01451,5796924094,University Three,12,false,true,B,false
+First44,Middle44,Last44,26,F,219 Eighth Street,Chicago,DB,95147,5680130243,University One,7,true,true,C,true
+First45,Middle45,Last45,22,M,2427 Ninth Street,Denver,CE,96768,9062327036,University Three,9,true,true,C,false
+First46,Middle46,Last46,23,M,8173 Tenth Street,Columbus,CI,54248,7891054469,University Four,13,true,true,C,false
+First47,Middle47,Last47,21,F,5798 Third Street,Lincoln,DB,93060,1019892977,University Eight,11,true,true,A,true
+First48,Middle48,Last48,17,M,4452 Sixth Street,Columbus,CE,84183,1281038102,University Three,9,true,true,C,true
+First49,Middle49,Last49,18,F,364 Second Street,New York,CU,97847,8631085452,University Four,17,true,true,D,true
+First50,Middle50,Last50,17,M,2906 Third Street,Chicago,TR,58891,7558346481,University Three,22,true,true,B,false
+First51,Middle51,Last51,22,M,4360 Ninth Street,Nashville,CE,15343,2087166766,University Four,14,true,true,A,true
+First52,Middle52,Last52,25,F,4071 Second Street,Nashville,UN,64179,3874431518,University One,15,false,true,B,false
+First53,Middle53,Last53,18,F,2877 Sixth Street,Seattle,SA,76294,6864201795,University Six,3,true,true,B,false
+First54,Middle54,Last54,17,M,7338 Forth Street,Seattle,CI,61892,1948309786,University Ten,22,false,false,D,false
+First55,Middle55,Last55,24,M,5384 Ninth Street,Pheonix,CU,89712,7900953283,University Three,3,true,true,C,false
+First56,Middle56,Last56,25,M,5500 Fifth Street,New York,DB,57710,5325332182,University Six,11,false,true,D,false
+First57,Middle57,Last57,26,F,534 Forth Street,Nashville,SA,83085,6394917998,University Five,14,false,true,D,false
+First58,Middle58,Last58,20,M,4607 Seventh Street,Nashville,DO,80112,8943449028,University Eight,7,false,true,B,true
+First59,Middle59,Last59,17,F,7422 First Street,San Francisco,CE,51761,8927545752,University Two,8,false,true,B,false
+First60,Middle60,Last60,21,M,4552 Third Street,Nashville,DO,86773,2751212593,University Seven,17,false,false,B,true
+First61,Middle61,Last61,17,F,4984 Tenth Street,New York,CI,07236,7164986939,University Eight,14,true,true,B,true
+First62,Middle62,Last62,26,M,8328 Eighth Street,San Francisco,DY,36656,4204913318,University Ten,5,true,true,B,true
+First63,Middle63,Last63,21,F,3715 Ninth Street,Willmington,DO,56685,2558457013,University Ten,13,true,false,D,false
+First64,Middle64,Last64,24,M,374 Seventh Street,Chicago,SA,43858,0802592303,University Four,3,true,true,D,true
+First65,Middle65,Last65,20,M,6382 Seventh Street,Willmington,TR,73689,6212688133,University Six,22,true,false,C,false
+First66,Middle66,Last66,25,M,6946 Second Street,Willmington,CU,66240,1584802679,University Ten,17,true,false,D,true
+First67,Middle67,Last67,18,M,6910 Third Street,San Francisco,SA,49508,4083786073,University One,15,false,false,D,false
+First68,Middle68,Last68,21,F,3951 Second Street,Willmington,UN,09919,0219323088,University Five,6,true,false,B,true
+First69,Middle69,Last69,24,M,9135 First Street,Willmington,TR,15259,4918130255,University Two,7,false,false,D,true
+First70,Middle70,Last70,18,F,149 Third Street,Willmington,UN,74506,0490572344,University Two,9,false,false,B,true
+First71,Middle71,Last71,25,F,9583 Tenth Street,Willmington,CU,89329,8826790734,University Three,13,true,true,B,false
+First72,Middle72,Last72,18,M,6188 Eighth Street,Denver,DO,69557,4323252599,University Three,8,true,true,B,true
+First73,Middle73,Last73,25,F,968 Fifth Street,Chicago,DB,55082,7822523014,University Two,19,true,true,C,false
+First74,Middle74,Last74,22,F,2362 Third Street,Seattle,DO,88393,6555636867,University Four,17,false,true,D,false
+First75,Middle75,Last75,19,F,5593 Fifth Street,Chicago,DY,13889,0176591740,University Eight,18,false,true,B,false
+First76,Middle76,Last76,26,F,560 Fifth Street,Denver,CU,51114,8658184203,University Eight,21,false,false,C,false
+First77,Middle77,Last77,18,M,310 Fifth Street,Seattle,SA,79860,8195623109,University Ten,19,false,true,B,true
+First78,Middle78,Last78,21,F,8304 Third Street,Columbus,SA,48583,3556264415,University Four,17,false,true,B,false
+First79,Middle79,Last79,21,F,7254 Second Street,San Francisco,CU,95131,6634399010,University Five,9,false,false,B,true
+First80,Middle80,Last80,21,M,5330 Third Street,Chicago,DB,22397,4855943215,University Ten,20,false,false,D,false
+First81,Middle81,Last81,22,M,6998 Seventh Street,New York,DO,42153,2640582463,University Eight,15,true,false,B,false
+First82,Middle82,Last82,24,F,5623 Tenth Street,Pheonix,CE,26774,8643185809,University Seven,21,false,false,A,true
+First83,Middle83,Last83,21,F,3328 Seventh Street,Willmington,TR,31041,0344948256,University Five,8,false,false,D,false
+First84,Middle84,Last84,17,M,345 Eighth Street,Seattle,BC,51804,5668128674,University Eight,13,false,true,C,false
+First85,Middle85,Last85,22,F,1309 Seventh Street,Willmington,TR,07688,1366411113,University Ten,22,false,false,A,true
+First86,Middle86,Last86,22,M,9590 Eighth Street,Pheonix,CE,87645,5509978489,University Seven,14,true,true,C,false
+First87,Middle87,Last87,21,F,2832 Tenth Street,Columbus,UN,79907,8511003820,University Eight,22,false,false,B,false
+First88,Middle88,Last88,25,M,3387 Fifth Street,Willmington,CI,38221,6444142182,University Two,18,false,true,B,false
+First89,Middle89,Last89,21,F,6303 Tenth Street,Willmington,DO,77993,0558791006,University Nine,12,false,false,B,true
+First90,Middle90,Last90,26,F,4878 First Street,Denver,SA,60637,4100171892,University Ten,6,false,true,A,true
+First91,Middle91,Last91,20,F,9675 Tenth Street,Nashville,BC,05008,6721062851,University Two,9,false,true,B,false
+First92,Middle92,Last92,17,F,1115 Sixth Street,Pheonix,CU,55100,2802380244,University One,13,true,true,B,true
+First93,Middle93,Last93,24,M,8490 Ninth Street,Seattle,DB,11865,0756678244,University Six,3,true,false,B,true
+First94,Middle94,Last94,25,M,9394 Seventh Street,Seattle,CU,60518,2676321436,University One,3,true,true,B,false
+First95,Middle95,Last95,21,F,3109 Sixth Street,Nashville,DO,25902,4119034097,University Four,7,true,false,B,false
+First96,Middle96,Last96,25,F,9557 Sixth Street,Nashville,CU,17520,8138521006,University Three,14,true,true,D,true
+First97,Middle97,Last97,17,M,1822 First Street,San Francisco,CI,59043,1513850697,University Nine,18,true,false,A,false
+First98,Middle98,Last98,20,M,5198 Second Street,Willmington,DO,41406,3213579953,University Three,8,false,true,C,true
+First99,Middle99,Last99,25,M,9002 Sixth Street,New York,SA,09347,2470103122,University Two,22,false,false,A,true
+First100,Middle100,Last100,21,M,9191 First Street,Lincoln,CU,25773,3066873941,University Two,9,false,false,A,false
